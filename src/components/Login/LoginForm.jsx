@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion, AnimatePresence } from "framer-motion";
-import ImageMain from "../images/image__main.jpg";
+import ImageMain from "../images/image__main.png";
 import IconArrow from "../images/bx-left-arrow-alt (1).svg";
 
 const BoxContainer = styled.div`
